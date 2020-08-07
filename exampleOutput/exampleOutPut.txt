@@ -1,0 +1,396 @@
+===============Steps===============
+
+( random seed: 1593092779 )
+
+------------[ Step_1 ]-------------
+
+Teacher/   TimesChosenByStudents/  redundancy/
+ Bo-Hua Chen          0                -5
+ Yin-Nan Huang          3                -3
+ Yu-Ting Hsu          6                2
+ Guo-Xin Yang          11                8
+ Hau-Zhe He          3                -4
+ Shang-Xien Xie          0                -5
+
+------------[ Step_2 ]-------------
+
+Teacher/   TimesChosenByStudents/  redundancy/
+ Bo-Hua Chen          0                -5
+ Yin-Nan Huang          2                -1
+ Yu-Ting Hsu          2                2
+ Guo-Xin Yang          0                0
+ Hau-Zhe He          6                2
+ Shang-Xien Xie          0                -5
+
+------------[ Step_3 ]-------------
+
+Teacher/   TimesChosenByStudents/  redundancy/
+ Bo-Hua Chen          0                -5
+ Yin-Nan Huang          3                2
+ Yu-Ting Hsu          0                0
+ Guo-Xin Yang          0                0
+ Hau-Zhe He          0                0
+ Shang-Xien Xie          0                -5
+
+------------[ Step_4 ]-------------
+
+Teacher/   TimesChosenByStudents/  redundancy/
+ Bo-Hua Chen          0                -5
+ Yin-Nan Huang          0                0
+ Yu-Ting Hsu          0                0
+ Guo-Xin Yang          0                0
+ Hau-Zhe He          0                0
+ Shang-Xien Xie          0                -5
+
+------------[ Step_5 ]-------------
+
+Teacher/   TimesChosenByStudents/  redundancy/
+ Bo-Hua Chen         0               -2
+ Yin-Nan Huang         0               0
+ Yu-Ting Hsu         0               0
+ Guo-Xin Yang         0               0
+ Hau-Zhe He         0               0
+ Shang-Xien Xie         0               -3
+
+===============Student===============
+
+[Student's] 
+name: Yaris
+ID: b08501041
+grade: 1
+history teacher: 
+teacher order: Yu-Ting Hsu.  Guo-Xin Yang.  Yin-Nan Huang.  
+-----------------------
+Assignment Result: Bo-Hua Chen
+--------------------------------------#
+
+[Student's] 
+name: Xx
+ID: b08501040
+grade: 1
+history teacher: 
+teacher order: Guo-Xin Yang.  Yu-Ting Hsu.  Yin-Nan Huang.  
+-----------------------
+Assignment Result: Bo-Hua Chen
+--------------------------------------#
+
+[Student's] 
+name: Sandy
+ID: b07501046
+grade: 2
+history teacher: Yu-Ting Hsu.  
+teacher order: Yin-Nan Huang.  Yu-Ting Hsu.  
+-----------------------
+Assignment Result: Bo-Hua Chen
+--------------------------------------#
+
+[Student's] 
+name: Willy
+ID: b08501039
+grade: 1
+history teacher: 
+teacher order: Guo-Xin Yang.  
+-----------------------
+Assignment Result: Bo-Hua Chen
+--------------------------------------#
+
+[Student's] 
+name: Frank
+ID: b05501060
+grade: 4
+history teacher: Yu-Ting Hsu.  Guo-Xin Yang.  Guo-Xin Yang.  
+teacher order: Yin-Nan Huang.  Guo-Xin Yang.  
+-----------------------
+Assignment Result: Yin-Nan Huang
+--------------------------------------#
+
+[Student's] 
+name: Harry
+ID: b05501062
+grade: 4
+history teacher: Yin-Nan Huang.  Yin-Nan Huang.  Yin-Nan Huang.  
+teacher order: Yin-Nan Huang.  Yu-Ting Hsu.  
+-----------------------
+Assignment Result: Yin-Nan Huang
+--------------------------------------#
+
+[Student's] 
+name: Nick
+ID: b06501009
+grade: 3
+history teacher: Guo-Xin Yang.  Yu-Ting Hsu.  
+teacher order: Yin-Nan Huang.  Hau-Zhe He.  
+-----------------------
+Assignment Result: Yin-Nan Huang
+--------------------------------------#
+
+[Student's] 
+name: Cindy
+ID: b05501057
+grade: 4
+history teacher: Yin-Nan Huang.  Yu-Ting Hsu.  Yu-Ting Hsu.  
+teacher order: Guo-Xin Yang.  Yin-Nan Huang.  Hau-Zhe He.  
+-----------------------
+Assignment Result: Yin-Nan Huang
+--------------------------------------#
+
+[Student's] 
+name: Amanda
+ID: b05501055
+grade: 4
+history teacher: Yin-Nan Huang.  Yu-Ting Hsu.  Guo-Xin Yang.  
+teacher order: Guo-Xin Yang.  Yin-Nan Huang.  Yu-Ting Hsu.  
+-----------------------
+Assignment Result: Yin-Nan Huang
+--------------------------------------#
+
+[Student's] 
+name: Eric
+ID: b05501059
+grade: 4
+history teacher: Yin-Nan Huang.  Hau-Zhe He.  Guo-Xin Yang.  
+teacher order: Guo-Xin Yang.  Hau-Zhe He.  
+-----------------------
+Assignment Result: Yin-Nan Huang
+--------------------------------------#
+
+[Student's] 
+name: Dennis
+ID: b05501058
+grade: 4
+history teacher: Hau-Zhe He.  Hau-Zhe He.  Hau-Zhe He.  
+teacher order: Yu-Ting Hsu.  Guo-Xin Yang.  Yin-Nan Huang.  
+-----------------------
+Assignment Result: Yu-Ting Hsu
+--------------------------------------#
+
+[Student's] 
+name: Romeo
+ID: b07501045
+grade: 2
+history teacher: Yin-Nan Huang.  
+teacher order: Yu-Ting Hsu.  Guo-Xin Yang.  Yin-Nan Huang.  
+-----------------------
+Assignment Result: Yu-Ting Hsu
+--------------------------------------#
+
+[Student's] 
+name: Vicky
+ID: b07501049
+grade: 2
+history teacher: Yin-Nan Huang.  
+teacher order: Yu-Ting Hsu.  Yin-Nan Huang.  
+-----------------------
+Assignment Result: Yu-Ting Hsu
+--------------------------------------#
+
+[Student's] 
+name: Zero
+ID: b08501042
+grade: 1
+history teacher: 
+teacher order: Yu-Ting Hsu.  Hau-Zhe He.  
+-----------------------
+Assignment Result: Yu-Ting Hsu
+--------------------------------------#
+
+[Student's] 
+name: Bob
+ID: b05501056
+grade: 4
+history teacher: Hau-Zhe He.  Yin-Nan Huang.  Guo-Xin Yang.  
+teacher order: Guo-Xin Yang.  Yu-Ting Hsu.  Hau-Zhe He.  
+-----------------------
+Assignment Result: Guo-Xin Yang
+--------------------------------------#
+
+[Student's] 
+name: Leo
+ID: b06501007
+grade: 3
+history teacher: Hau-Zhe He.  Yin-Nan Huang.  
+teacher order: Guo-Xin Yang.  Yin-Nan Huang.  Yu-Ting Hsu.  
+-----------------------
+Assignment Result: Guo-Xin Yang
+--------------------------------------#
+
+[Student's] 
+name: Tina
+ID: b07501047
+grade: 2
+history teacher: Guo-Xin Yang.  
+teacher order: Guo-Xin Yang.  Yu-Ting Hsu.  
+-----------------------
+Assignment Result: Guo-Xin Yang
+--------------------------------------#
+
+[Student's] 
+name: Jennifer
+ID: b06501005
+grade: 3
+history teacher: Yu-Ting Hsu.  Yu-Ting Hsu.  
+teacher order: Hau-Zhe He.  Yu-Ting Hsu.  Guo-Xin Yang.  
+-----------------------
+Assignment Result: Hau-Zhe He
+--------------------------------------#
+
+[Student's] 
+name: Oreo
+ID: b06501010
+grade: 3
+history teacher: Yu-Ting Hsu.  Guo-Xin Yang.  
+teacher order: Hau-Zhe He.  Guo-Xin Yang.  Yin-Nan Huang.  
+-----------------------
+Assignment Result: Hau-Zhe He
+--------------------------------------#
+
+[Student's] 
+name: Queen
+ID: b06501012
+grade: 3
+history teacher: Hau-Zhe He.  Hau-Zhe He.  
+teacher order: Hau-Zhe He.  Guo-Xin Yang.  Yu-Ting Hsu.  
+-----------------------
+Assignment Result: Hau-Zhe He
+--------------------------------------#
+
+[Student's] 
+name: Unknown
+ID: b07501048
+grade: 2
+history teacher: Hau-Zhe He.  
+teacher order: Yu-Ting Hsu.  Hau-Zhe He.  Yin-Nan Huang.  
+-----------------------
+Assignment Result: Hau-Zhe He
+--------------------------------------#
+
+[Student's] 
+name: Kobe
+ID: b06501006
+grade: 3
+history teacher: Guo-Xin Yang.  Hau-Zhe He.  
+teacher order: Guo-Xin Yang.  
+-----------------------
+Assignment Result: Hau-Zhe He
+--------------------------------------#
+
+[Student's] 
+name: Peter
+ID: b06501011
+grade: 3
+history teacher: Yin-Nan Huang.  Guo-Xin Yang.  
+teacher order: Guo-Xin Yang.  
+-----------------------
+Assignment Result: Hau-Zhe He
+--------------------------------------#
+
+[Student's] 
+name: Manny
+ID: b06501008
+grade: 3
+history teacher: Yin-Nan Huang.  Yin-Nan Huang.  
+teacher order: Guo-Xin Yang.  Hau-Zhe He.  
+-----------------------
+Assignment Result: Hau-Zhe He
+--------------------------------------#
+
+[Student's] 
+name: Gary
+ID: b05501061
+grade: 4
+history teacher: Yin-Nan Huang.  Guo-Xin Yang.  Guo-Xin Yang.  
+teacher order: Guo-Xin Yang.  
+-----------------------
+Assignment Result: Shang-Xien Xie
+--------------------------------------#
+
+[Student's] 
+name: Iris
+ID: b05501063
+grade: 4
+history teacher: Yu-Ting Hsu.  Guo-Xin Yang.  Yu-Ting Hsu.  
+teacher order: Guo-Xin Yang.  Hau-Zhe He.  
+-----------------------
+Assignment Result: Shang-Xien Xie
+--------------------------------------#
+
+
+===============Teacher===============
+
+[Teacher's]: 
+Name: Bo-Hua Chen
+ID: 1
+The limit of student number is: 5
+Rule: 
+Rule No.1 is "GradeRestriction to Student."
+Student should at least be at grade 1.
+
+Student List: Yaris. Xx. Sandy. Willy. 
+--------------------------------------#
+
+[Teacher's]: 
+Name: Yin-Nan Huang
+ID: 2
+The limit of student number is: 6
+Rule: 
+Rule No.1 is "GradeRestriction to Student."
+Student should at least be at grade 3.
+
+Student List: Frank. Harry. Nick. Cindy. Amanda. Eric. 
+--------------------------------------#
+
+[Teacher's]: 
+Name: Yu-Ting Hsu
+ID: 3
+The limit of student number is: 4
+Rule: 
+Rule No.1 is "GradeRestriction to Student."
+Student should at least be at grade 1.
+
+Student List: Dennis. Romeo. Vicky. Zero. 
+--------------------------------------#
+
+[Teacher's]: 
+Name: Guo-Xin Yang
+ID: 4
+The limit of student number is: 3
+Rule: 
+Rule No.1 is "GradeRestriction to Student."
+Student should at least be at grade 2.
+Rule No.2 is "UsedToBeStudent"
+Student should have been taughted by teacher Guo-Xin Yang
+
+Student List: Bob. Leo. Tina. 
+--------------------------------------#
+
+[Teacher's]: 
+Name: Hau-Zhe He
+ID: 5
+The limit of student number is: 7
+Rule: 
+Rule No.1 is "GradeRestriction to Student."
+Student should at least be at grade 1.
+
+Student List: Jennifer. Oreo. Queen. Unknown. Kobe. Peter. Manny. 
+--------------------------------------#
+
+[Teacher's]: 
+Name: Shang-Xien Xie
+ID: 6
+The limit of student number is: 5
+Rule: 
+Rule No.1 is "GradeRestriction to Student."
+Student should at least be at grade 4.
+Rule No.2 is "UsedToBeStudent"
+Student should have been taughted by teacher Shang-Xien Xie
+
+Student List: Gary. Iris. 
+--------------------------------------#
+
+Amanda is assigned to Prof.Yin-Nan Huang! Congratulations!
+
+Prof.Bo-Hua Chen is going to have a good year with the students, 
+Yaris. Xx. Sandy. Willy. 
+Congratulations!
+
+
